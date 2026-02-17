@@ -1,0 +1,23 @@
+# 系统缓存文件（Windows/Mac）
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 编辑器配置文件（VSCode/WebStorm等）
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+
+# 临时/测试文件
+*.tmp
+*.bak
+*.log
+test/
+demo/
+
+# 如果后续用到npm/npm，过滤依赖文件夹
+node_modules/
+package-lock.json
+yarn.lock
