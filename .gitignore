@@ -17,7 +17,7 @@ Desktop.ini
 test/
 demo/
 
-# 如果后续用到npm/npm，过滤依赖文件夹
+# 后续用到npm/npm，过滤依赖文件夹
 node_modules/
 package-lock.json
 yarn.lock
